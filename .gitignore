@@ -1,0 +1,61 @@
+# Данные
+data/*
+!data/.gitkeep
+
+# Результаты прогонов
+results/*
+!results/.gitkeep
+
+# Python
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Веса моделей
+*.pth
+*.pt
+*.onnx
+weights/
+.cache/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Редакторы
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+._*
+
+# Linux
+.directory
+.Trash-*
+
+# Прочее
+*.log
+*.bak
+*.tmp
+.ipynb_checkpoints/
