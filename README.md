@@ -87,3 +87,5 @@ docs/
 ├── train_sample/     маршрут 28.5 км
 └── val_sample/       маршрут 4.6 км
 ```
+
+Отчёт по результатам работы с методологией и выводами: [docs/report.pdf](docs/report.pdf)
